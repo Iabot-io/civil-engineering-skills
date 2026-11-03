@@ -29,7 +29,7 @@ Trabaja con las fichas de visita, fotografías, tramos y sistema de identificaci
 1. Fija carretera, sentido, tramo, progresiva y fecha de visita; conserva incertidumbre de localización.
 2. Describe daños observables y dimensiones realmente medidas; separa firme, drenaje, señalización y elementos de contención.
 3. Relaciona cada observación con fotografía y ficha; identifica duplicados y evolución entre visitas comparables.
-4. Aplica el criterio de prioridad facilitado por la entidad titular y remite avisos urgentes mediante su procedimiento.
+4. Aplica el criterio de prioridad facilitado por la entidad titular y prepara los avisos urgentes mediante su procedimiento. Envíalos solo si el encargo y los permisos vigentes autorizan esa comunicación; conserva el registro de lo enviado.
 5. Redacta el informe distinguiendo observación, hipótesis y necesidad de inspección especializada.
 
 ## Comprobación del resultado

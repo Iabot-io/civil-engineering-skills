@@ -1,1 +1,1 @@
-punto,x,y,z,unidad,crs_horizontal,referencia_vertical,fuente,incidencia,accion
+fila_fuente,punto,x,y,z,unidad_horizontal,unidad_vertical,crs_horizontal,referencia_vertical,fuente,revision,incidencia,accion

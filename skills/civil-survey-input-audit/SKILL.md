@@ -26,7 +26,7 @@ Trabaja con los puntos, metadatos, unidades, sistema de referencia y levantamien
 
 ## Procedimiento
 
-1. Identifica sistema horizontal, referencia vertical, unidades, fecha y origen; conserva por separado lo conocido y lo supuesto.
+1. Identifica sistema horizontal, referencia vertical, unidades horizontales y verticales, fecha y origen; conserva por separado lo conocido y lo supuesto. La unidad horizontal no acredita la de las cotas.
 2. Comprueba columnas, identificadores, valores no numéricos, duplicados y rangos; no elimines puntos anómalos sin dejar una copia.
 3. Compara la extensión y puntos de control con el levantamiento; una coincidencia visual de mapa no valida el sistema de referencia.
 4. Registra transformaciones propuestas con origen y destino; no asignes otro CRS para aparentar que las coordenadas coinciden.
